@@ -9,7 +9,7 @@
 
 - 🌱 Queremos desenvolver **conhecimento e projetos com base em objetivos concretos.**
 
-- 🤝 Trabalhando juntos **com a universidade e entidades externas, sejma ONGs ou empresas privadas.**
+- 🤝 Junto a comunidade **da universidade ou externa.**
 
 - 📫 Fale conosco **Pela aba de discussões do Github, caso você tenha ideias e sugestões.**
 
